@@ -19,9 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpeg',
   paragraphOne: 'Hi my name is Harry and I am a passionate Full-Stack Developer from Manchester.',
-  paragraphTwo: 'I currently specialise in Django and React, but I love learning new technologies and frameworks.',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphTwo: 'I constantly challenge my-self by building unique web-apps that push my skills and knowledge. ',
+  paragraphThree: 'Currently I specialise in Django and React, but I love learning new technologies and frameworks.',
 };
 
 // PROJECTS DATA
